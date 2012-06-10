@@ -2,7 +2,9 @@
 <resources>
     <string name="app_name">Notepad</string>
     <string name="home_title">Home</string>
-    <string name="note_title">Note</string>
+    <string name="note_title_hint">Note Title</string>
     <string name="delete_note_button_desc">Delete Note</string>
+    <string name="add_note_button_desc">Add Note</string>
+    <string name="note_content_hint">Note Content</string>
 
 </resources>

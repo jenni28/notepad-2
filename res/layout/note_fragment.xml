@@ -11,12 +11,9 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:ems="10"
-            android:text="@string/note_title"
+            android:hint="@string/note_title_hint"
             android:inputType="textCapWords"
-            android:textAppearance="?android:attr/textAppearanceLarge" >
-
-            <requestFocus />
-        </EditText>
+            android:textAppearance="?android:attr/textAppearanceLarge" />
 
         <ImageButton
             android:id="@+id/deleteButton"
